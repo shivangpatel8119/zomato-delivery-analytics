@@ -1,4 +1,4 @@
-USE portfolio_db;
+USE zomato_delivery;;
 
 -- =========================================================
 -- ZOMATO DELIVERY - FINAL INSIGHT EXTRACTION
